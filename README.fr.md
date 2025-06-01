@@ -1,6 +1,6 @@
 # DAUPS README (Français)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/tonpseudo/daups-extension)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/PerseusShade/DAUPS-ext)
 
 🌐 **Langues disponibles** :
 [English](README.md) | [Français](README.fr.md)
@@ -58,10 +58,12 @@ Première version de l'extension **DAUPS**.
 
 Cette extension a été développée par un étudiant comme projet personnel pendant son temps libre. Elle vise à aider les apprenants en pensée algorithmique en rendant le pseudocode plus interactif et accessible dans un éditeur moderne comme Visual Studio Code.
 
-Code source et mises à jour : [https://lienrepo.com](https://lienrepo.com)
+Code source et mises à jour : [https://github.com/PerseusShade/DAUPS-ext](https://github.com/PerseusShade/DAUPS-ext)
+
+Projet complet : [https://github.com/PerseusShade/DAUPS](https://github.com/PerseusShade/DAUPS)
 
 En cas d'erreur, de question ou de suggestion, n'hésitez pas à créer une issue ici :
-👉 [https://github.com/yourusername/daups-extension/issues](https://github.com/yourusername/daups-extension/issues)
+👉 [https://github.com/PerseusShade/DAUPS-ext/issues](https://github.com/PerseusShade/DAUPS-ext/issues)
 
 ---
 
