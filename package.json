@@ -28,7 +28,11 @@
 				"extensions": [
 					".daups"
 				],
-				"configuration": "./language-configuration.json"
+				"configuration": "./language-configuration.json",
+				"icon": {
+					"light": "icon.png",
+					"dark": "icon.png"
+				}
 			},
 			{
 				"id": "daups-hover",
@@ -83,20 +87,6 @@
 				}
 			]
 		},
-		"themes": [
-			{
-				"label": "DAUPS Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/daups-color-theme.json"
-			}
-		],
-		"iconThemes": [
-			{
-				"id": "daups-icon-theme",
-				"label": "DAUPS Icon Theme",
-				"path": "./themes/icon-theme.json"
-			}
-		],
 		"onTypeFormatting": [
 			{
 				"language": "daups",
